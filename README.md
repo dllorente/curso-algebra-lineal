@@ -43,5 +43,3 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 ### El itinerario definitivo para convertirte en un experto en ML e IA
 
 Complementa este curso con el resto del itinerario específico que tienes disponible en la web de [Frogames](https://frogames.es/rutas-de-aprendizaje)
-
-prueba
